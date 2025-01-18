@@ -1,0 +1,11 @@
+review,sentiment
+"This product is amazing! It exceeded my expectations.","positive"
+"I am very disappointed with this purchase.","negative"
+"The service was terrible. I will never use this company again.","negative"
+"I loved everything about this experience.","positive"
+"The product was okay, but not worth the price.","neutral"
+"I highly recommend this product to anyone.","positive"
+"This is the worst product I have ever used.","negative"
+"I was pleasantly surprised by the quality.","positive"
+"The delivery was delayed and the packaging was damaged.","negative"
+"I am neutral about this product." ,"neutral"
