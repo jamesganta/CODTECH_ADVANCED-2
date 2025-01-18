@@ -1,8 +1,17 @@
 # CODTECH_ADVANCED-2
 
+Name : James Timothy Ganta 
+
+Company : CODTECH IT SOLUTIONS 
+
+ID : CT6WDS2703
+
+Domain : Machine Learning 
+
+Duration : 6 weeks (Dec 5th 2024 to Jan 20th 2025)
 # Overview of the Project
 
-Name : James Timothy Ganta Company : CODTECH IT SOLUTIONS ID : CT6WDS2703 Domain : Machine Learning Duration : 6 weeks (Dec 5th 2024 to Jan 20th 2025)
+
 
 Sentiment Analysis with NLP
 
@@ -47,5 +56,6 @@ Split Data: Divide the dataset into training and testing sets.
 Train the Model: Train a Logistic Regression model on the training data. Logistic Regression is a suitable classification algorithm for sentiment analysis as it predicts the probability of a review belonging to a particular sentiment class.
 Tune Hyperparameters (Optional): Experiment with different hyperparameters (e.g., regularization strength, solver) to optimize model performance.
 
+# Output of the Task
 ![Screenshot 1946-10-28 at 1 05 24 PM](https://github.com/user-attachments/assets/53de6553-38e5-4355-801f-7b9b9e3e54d8)
 
